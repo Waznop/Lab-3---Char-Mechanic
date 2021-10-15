@@ -119,7 +119,7 @@ http://www.charmec.com
 Where did the user come from? (one word)
 Yahoo
 The new url is:
-https://www.charmecv2.com?utm_source=yahoo
+https://www.charmecv2.com?utm_source=Yahoo
 $
 ```
 
